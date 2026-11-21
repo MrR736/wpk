@@ -26,7 +26,6 @@ src/              library sources (+ bundled miniz)
 cli/wpkc.cpp      command-line tool
 webinitg/         web-app packer and Java/C code generator (bundles cJSON)
 test/wpktest.c    test suite
-example/          small usage example (UUID API)
 ```
 
 ## Building
