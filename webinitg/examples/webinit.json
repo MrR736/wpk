@@ -1,0 +1,13 @@
+{
+	"Name": "example",
+	"App": "com.example",
+	"BuildDir": "build-wpk",
+	"CommandsBefore": null,
+	"CommandsAfter": null,
+	"Assets": [
+		"index.html"
+	],
+	"Removes": null,
+	"Password": null,
+	"Encryption": true
+}
